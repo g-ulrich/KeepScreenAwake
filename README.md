@@ -1,0 +1,2 @@
+# Keep Screen Awake
+## A PYQT5 GUI app that wiggles the mouse every x amount of minutes selected by the user. Most computers are smart enough to go into screensaver mode without or without the mouse moving so in addition to the mouse moving the ctrl key is pressed 3 times.
