@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:\desktop2\2021\scripts\python\PyCharmProjects\awake\awake.ui'
+# Form implementation generated from reading ui file 'C:\desktop2\2021\scripts\python\PyCharmProjects\awake\KeepScreenAwake\awake.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.2
 #
@@ -206,6 +206,7 @@ class Ui_KeepScreenAwakeUtility(object):
         self.spinBox.setFont(font)
         self.spinBox.setStyleSheet("border-radius: 3px;")
         self.spinBox.setAlignment(QtCore.Qt.AlignCenter)
+        self.spinBox.setMinimum(1)
         self.spinBox.setProperty("value", 5)
         self.spinBox.setObjectName("spinBox")
         self.horizontalLayout_2.addWidget(self.spinBox)
