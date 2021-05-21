@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['KeepScreenAwake.py'],
-             pathex=['C:\\desktop2\\2021\\scripts\\python\\PyCharmProjects\\awake'],
+             pathex=['C:\\desktop2\\2021\\scripts\\python\\PyCharmProjects\\awake\\KeepScreenAwake'],
              binaries=[],
              datas=[('images', 'images')],
              hiddenimports=[],
